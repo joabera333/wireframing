@@ -1,1 +1,2 @@
 # wireframing
+Type of frames
