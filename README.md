@@ -1,2 +1,2 @@
 # wireframing
-Type of frames
+Types of Wireframes
